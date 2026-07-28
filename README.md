@@ -15,7 +15,7 @@ Offline multilingual speech-to-text tool for Windows using Whisper — supports 
 **[Canvas Export Audit](https://github.com/dharanikaa360/Mapping-exported-Canvas-files-to-SWE-and-DS-packages)**
 Audits Canvas LMS exports against instructional design storyboards to validate content build accuracy.
 
-**[Resume Extraction](https://github.com/dharanikaa360/resume-extraction-)**
+**[Resume Extraction](https://github.com/dharanikaa360/resume-extraction)**
 Extracts candidate details (name, contact, DOB, LinkedIn, publications, DOI) from resume PDFs into an Excel sheet.
 
 **[Student Management System](https://github.com/dharanikaa360/student-management)**
@@ -31,4 +31,5 @@ A CRUD-based system for managing student records.
 
 ### 📫 Connect
 
-Feel free to explore my repositories or reach out — always open to feedback and collaboration.
+- 💼 LinkedIn: [dharanikaa-t](https://www.linkedin.com/in/dharanikaa-t)
+- 📧 Email: dharanikaa12345@gmail.com
